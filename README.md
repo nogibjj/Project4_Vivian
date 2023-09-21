@@ -1,5 +1,6 @@
 # README [![CI](https://github.com/vivianzzzzz/Project2/actions/workflows/ci.yml/badge.svg)](https://github.com/vivianzzzzz/Project2/actions/workflows/ci.yml)
-This repository features the materials for Mini-Project 2. It includes: 
+
+This repository features the materials for Mini-Project 4. It includes: 
 - A Makefile
 - A Dockerfile
 - A foundational set of libraries for development operations and web applications
@@ -7,7 +8,7 @@ This repository features the materials for Mini-Project 2. It includes:
 
 
 ## Purpose Of Project
-The purpose of the project is to use the template from the previous project to help with anaylizing datasets using Pandas. I used the dataset "california housing price" and imported the csv file. In the first part, I use pandas to sort the data points by descending house price and calculated the mean, median, and standard deviation of the "median_house_price" colunm. In the second part, I used matlibplot to generate and displayed a histogram of "median_house_price". 
+The purpose of the project is to add a GitHub Actions Matrix Build that tests 3 versions of Python to the previous project that analyzed datasets using Pandas. 
 
 ## Preparation 
 1. open the project in codespaces
