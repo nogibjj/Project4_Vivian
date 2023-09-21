@@ -9,7 +9,11 @@ This repository features the materials for Mini-Project 4. It includes:
 
 ## Purpose Of Project
 The purpose of the project is to add a GitHub Actions Matrix Build that tests 3 versions of Python on the previous project that analyze datasets using Pandas,numpy,and matlibplot on a california house price dataset. 
-- 3 Python versions (Version 3.7 or 3.8 or 3.9)
+
+- Added 3 Python versions (Version 3.7 or 3.8 or 3.9) to cicd
+
+<img width="345" alt="Screen Shot 2023-09-21 at 5 10 51 PM" src="https://github.com/nogibjj/Project4_Vivian/assets/143654445/d2f40f7f-fa4b-4592-8aac-7bd4e83cb037">
+
 
 ## Preparation 
 1. open the project in codespaces
