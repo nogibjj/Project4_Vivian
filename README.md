@@ -1,7 +1,7 @@
 # README [![CI](https://github.com/vivianzzzzz/Project2/actions/workflows/ci.yml/badge.svg)](https://github.com/vivianzzzzz/Project2/actions/workflows/ci.yml)
 
 This repository features the materials for Mini-Project 4. It includes: 
-- A Makefile
+- A Makefile: add 3 Python versions (Version 3.7 or 3.8 or 3.9)
 - A Dockerfile
 - A foundational set of libraries for development operations and web applications
 - GitHub Actions
@@ -9,11 +9,7 @@ This repository features the materials for Mini-Project 4. It includes:
 
 ## Purpose Of Project
 The purpose of the project is to add a GitHub Actions Matrix Build that tests 3 versions of Python on the previous project that analyze datasets using Pandas,numpy,and matlibplot on a california house price dataset. 
-Some verisons overview: 
-Python (Version 3.7 or 3.8 or 3.9)
-Pandas (Version 1.1.5)
-Matplotlib (Version 3.4.3)
-Numpy(Version 1.21.0)
+
 
 ## Preparation 
 1. open the project in codespaces
