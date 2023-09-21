@@ -8,7 +8,12 @@ This repository features the materials for Mini-Project 4. It includes:
 
 
 ## Purpose Of Project
-The purpose of the project is to add a GitHub Actions Matrix Build that tests 3 versions of Python to the previous project that analyzed datasets using Pandas. 
+The purpose of the project is to add a GitHub Actions Matrix Build that tests 3 versions of Python on the previous project that analyze datasets using Pandas,numpy,and matlibplot on a california house price dataset. 
+Some verisons overview: 
+Python (Version 3.7 or 3.8 or 3.9)
+Pandas (Version 1.1.5)
+Matplotlib (Version 3.4.3)
+Numpy(Version 1.21.0)
 
 ## Preparation 
 1. open the project in codespaces
